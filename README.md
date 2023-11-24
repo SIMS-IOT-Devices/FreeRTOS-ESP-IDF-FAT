@@ -1,5 +1,6 @@
 # FreeRTOS-ESP-IDF-FAT
-FAT filesystem usage example
+
+FAT filesystem usage example by the usage of the FatFs library in ESP IDF 5.0
 
 The installation process:
 1. Create CSV partitions file in the project outside the main directory
