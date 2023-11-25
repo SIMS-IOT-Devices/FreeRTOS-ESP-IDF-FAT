@@ -1,5 +1,3 @@
-# FreeRTOS-ESP-IDF-FAT
-
 FAT filesystem usage example by the usage of the FatFs library in ESP IDF 5.0
 
 The installation process:
